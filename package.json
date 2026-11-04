@@ -1,0 +1,18 @@
+{
+  "name": "esn-discord-bot-node",
+  "version": "1.0.0",
+  "description": "Discord bot starter with slash commands (discord.js v14) by ESN Systems",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "license": "MIT",
+  "homepage": "https://esnoffical.com",
+  "engines": {
+    "node": ">=18"
+  },
+  "dependencies": {
+    "discord.js": "^14.16.3",
+    "dotenv": "^16.4.5"
+  }
+}
