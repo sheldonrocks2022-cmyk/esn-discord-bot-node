@@ -1,5 +1,7 @@
 # ESN Discord Bot Starter (Node.js)
 
+[![Deploy to ESN](https://panel.esnoffical.com/deploy/badge.svg)](https://panel.esnoffical.com/deploy?repo=https://github.com/sheldonrocks2022-cmyk/esn-discord-bot-node)
+
 A clean Node.js (discord.js v14) starter for a Discord bot with slash commands, made by [ESN Systems](https://esnoffical.com/?utm_source=github&utm_medium=readme&utm_campaign=bot-templates).
 
 It comes with three slash commands to build on:
